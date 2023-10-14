@@ -33,6 +33,8 @@ body {
   background: var(--white);
   padding: 20px;
   border-radius: 20px;
+  box-shadow:  15px 15px 36px #c7c7c7,
+             -15px -15px 36px #f9f9f9;
   
 }
 
